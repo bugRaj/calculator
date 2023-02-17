@@ -1,3 +1,3 @@
- Simple Calculator Using HTML, CSS, and JavaScript
+# modern calculator Using HTML, CSS, and JavaScript
 
 # calculator
